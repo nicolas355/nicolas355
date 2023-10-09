@@ -75,7 +75,7 @@
       <h3 align="center">Recetas de comida API JAVASCRIPT VANILLA</h3>
         <br />
         <a target="_blank" href="https://ricepefinder.netlify.app/">
-            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.pngf" width="100%" alt="Imagen API JavaScript"/>
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" width="100%" alt="Imagen API JavaScript"/>
         </a>
         <br />
      
