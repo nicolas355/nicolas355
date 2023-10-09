@@ -70,7 +70,7 @@
 
 <h1 align="center" >Proyectos </h1>
 
-<table bordercolor="#66b2b2">
+<table bordercolor="#1b24ae" border="#1b24ae">
 <td width="50%" valign="top">
       <h3 align="center">  <a href="https://ricepefinder.netlify.app/">Recetas de comida API JAVASCRIPT VANILLA</h3>
         <br />
@@ -82,7 +82,8 @@
 </td>
 
 <td width="50%" valign="top">
-  <h3 align="center">Agencia de Viaje MVC</h3>
+
+   <h3 align="center">  <a href="https://www.youtube.com/watch?v=MwIT-kqapUY&ab_channel=NicolasGonzalez">Agencia de Viaje MVC</h3>
         <br />
         <a target="_blank" href="https://www.youtube.com/watch?v=MwIT-kqapUY&ab_channel=NicolasGonzalez">
             <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" width="100%" alt="Imagen Agencia de  viaje"/>
