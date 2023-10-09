@@ -71,19 +71,20 @@
 <h1 align="center" >Proyectos </h1>
 
 
-<div style="display: flex; justify-content: space-between; border: 2px solid #000;">
-  <div style="width: 100%;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: left;">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript">
+<div align="left" style="display: flex; justify-content: space-between;">
+  <div style="border: 2px solid #000; padding: 10px;">
+    <a href="https://ricepefinder.netlify.app/" style="display: block;">
+      <img style="width: 100%; max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript">
     </a>
   </div>
 
-  <div style="width: 100%;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: right;">
-      <img style="max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
+  <div align="right"  style="border: 2px solid #000; padding: 10px;">
+    <a href="https://ricepefinder.netlify.app/" style="display: block;">
+      <img align="right"  style="width: 100%; max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
     </a>
   </div>
 </div>
+
 
 
 
