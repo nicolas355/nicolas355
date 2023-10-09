@@ -73,11 +73,11 @@
 
 <div style="display: flex; justify-content: space-between; border: 2px solid #000;">
   <a href="https://ricepefinder.netlify.app/" style="width: 50%; display: inline-block; text-align: left;">
-    <img style="max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript">
+    <img style="max-width: 50%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript">
   </a>
 
   <a href="https://ricepefinder.netlify.app/" style="width: 50%; display: inline-block; text-align: right;">
-    <img style="max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
+    <img style="max-width: 50%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
   </a>
 </div>
 
