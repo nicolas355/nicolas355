@@ -9,9 +9,9 @@
 <p><img align="right" src="https://github.com/nicolas355/nicolas355/blob/main/hero.jpg"  width="50%" style="max-width: 100%;" alt="hero_web" /></p>
 
 
-- 🌱 Impulsando la innovación digital con cada proyecto.
-
 - 👨‍💻 Me encanta el desarrollo frontend y disfruto cada momento que paso creando interfaces web  funcionales.
+
+- 🌱 Impulsando la innovación digital con cada proyecto.
 
 - 📫 Comunicate conmigo  **gonzaleznicolas8000@gmail.com**
 
