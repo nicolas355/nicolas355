@@ -74,12 +74,12 @@
   <div style="display: flex; justify-content: space-between;">
   <div  border: 2px solid #000; padding: 10px;">
     <img style="width: 50%" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" style="max-width: 100%; height: auto;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: center; background: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visitar el sitio web</a>
+    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: center; background: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"> <img width: 50% src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje" style="max-width: 100%; height: auto;">
+    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: center; background: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visitar el sitio web</a></a>
   </div>
   
   <div style= "border: 2px solid #000; padding: 10px;">
-    <img width: 50% src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje" style="max-width: 100%; height: auto;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block; text-align: center; background: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Visitar el sitio web</a>
+   
   </div>
 </div>
 
