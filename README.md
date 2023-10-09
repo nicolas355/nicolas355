@@ -71,15 +71,22 @@
 <h1 align="center" >Proyectos </h1>
 
 <table bordercolor="#66b2b2">
+
+
 <td width="50%" valign="top">
-      <h3 align="center">  <a href="https://ricepefinder.netlify.app/">Recetas de comida API JAVASCRIPT VANILLA</h3>
+
+   <h3 align="center">  <a href="https://highweb.netlify.app/">High Web</h3>
         <br />
-        <a target="_blank" href="https://ricepefinder.netlify.app/">
-            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" width="100%" alt="Imagen API JavaScript"/>
+        <a target="_blank" href="https://highweb.netlify.app/">
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_high.png" width="100%" alt="Imagen Agencia de  viaje"/>
         </a>
         <br />
-     
+
+
 </td>
+
+
+
 
 <td width="50%" valign="top">
 
@@ -91,6 +98,27 @@
         <br />
 
 
+</td>
+
+<td width="50%" valign="top">
+      <h3 align="center">  <a href="https://ricepefinder.netlify.app/">Recetas de comida API JAVASCRIPT VANILLA</h3>
+        <br />
+        <a target="_blank" href="https://ricepefinder.netlify.app/">
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" width="100%" alt="Imagen API JavaScript"/>
+        </a>
+        <br />
+     
+</td>
+
+<td width="50%" valign="top">
+      <h3 align="center">  <a href="https://rickandmortysiteapi.netlify.app/"> Rick and morty 
+</h3>
+        <br />
+        <a target="_blank" href="https://rickandmortysiteapi.netlify.app/">
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_rick.png" width="100%" alt="Imagen API JavaScript"/>
+        </a>
+        <br />
+     
 </td>
 
 
