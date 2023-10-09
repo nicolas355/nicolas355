@@ -72,7 +72,7 @@
 
 <table bordercolor="#66b2b2">
 
-
+ <tr>
 <td width="50%" valign="top">
 
    <h3 align="center">  <a href="https://highweb.netlify.app/">High Web</h3>
@@ -100,7 +100,10 @@
 
 </td>
 
-<td width="50%" valign="top">
+  </tr>
+
+<tr>
+  <td width="50%" valign="top">
       <h3 align="center">  <a href="https://ricepefinder.netlify.app/">Recetas de comida API JAVASCRIPT VANILLA</h3>
         <br />
         <a target="_blank" href="https://ricepefinder.netlify.app/">
@@ -109,6 +112,7 @@
         <br />
      
 </td>
+
 
 <td width="50%" valign="top">
       <h3 align="center">  <a href="https://rickandmortysiteapi.netlify.app/"> Rick and morty 
@@ -119,9 +123,8 @@
         </a>
         <br />
      
-</td>
-
-
+  </td>
+</tr>
 
 </table>
 
