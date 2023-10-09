@@ -78,7 +78,7 @@
     </a>
   </div>
 
-  <div  style="border: 2px solid #000; padding: 10px;">
+  <div align="right"  style="border: 2px solid #000; padding: 10px;">
     <a href="https://ricepefinder.netlify.app/" style="display: block;">
       <img style="width: 100%; max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
     </a>
