@@ -17,6 +17,7 @@
 
 
 <br>
+<br>
 
 <h3 align="left">Mis redes</h3>
 <p align="left">
@@ -47,19 +48,19 @@
 <div style="display: flex; align-items: center;">
   <img align="left" src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300" style="max-width: 100%;" style="flex: 1;">
   <div style="flex: 1;">
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/sass.svg" alt="Sass" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/vitejs.svg" alt="Vite.js" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/reactjs.svg" alt="React.js" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/wordpress.svg" alt="WordPress" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/pugjs.svg" alt="Pug.js" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/nodejs.svg" alt="Node.js" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/php.svg" alt="PHP" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/npm.svg" alt="npm" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/netlify.svg" alt="Netlify" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/js.svg" alt="JavaScript" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/figma.svg" alt="Figma" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/css3.svg" alt="CSS3" width="40" height="40" />
-    <img src="https://github.com/nicolas355/nicolas355/blob/main/bootstrap5.svg" alt="Bootstrap 5" width="40" height="40" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/sass.svg" alt="Sass" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/vitejs.svg" alt="Vite.js" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/reactjs.svg" alt="React.js" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/wordpress.svg" alt="WordPress" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/pugjs.svg" alt="Pug.js" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/nodejs.svg" alt="Node.js" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/php.svg" alt="PHP" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/npm.svg" alt="npm" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/netlify.svg" alt="Netlify" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/js.svg" alt="JavaScript" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/figma.svg" alt="Figma" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/css3.svg" alt="CSS3" width="85" height="85" />
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/bootstrap5.svg" alt="Bootstrap 5" width="85" height="85" />
   </div>
 </div>
 
