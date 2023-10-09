@@ -73,8 +73,8 @@
 
   <div style="display: flex; justify-content: space-between; gap:20px;">
   <div style= "border: 2px solid #000; padding: 10px;">
-    <img width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" style="max-width: 100%; height: auto;">
-    <img width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje" style="max-width: 100%; height: auto;">
+    <img align="right" width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" style="max-width: 100%; height: auto;">
+    <img  align="left" width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje" style="max-width: 100%; height: auto;">
    
   </div>
   
