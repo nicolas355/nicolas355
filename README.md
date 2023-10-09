@@ -71,16 +71,10 @@
 <h1 align="center" >Proyectos </h1>
 
 
-<p><img align="left"  width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" ></p>
-
-
-<p><img align="right" width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen API JavaScript" ></p>
+<p><img align="left"  width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" ></p><img align="right" width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen API JavaScript" >
 
    
-<p><img align="left"  width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" ></p>
 
-
-<p><img align="right" width=50% style="max-width: 100%;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen API JavaScript" ></p>
 
 
 
