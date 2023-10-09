@@ -70,20 +70,34 @@
 
 <h1 align="center" >Proyectos </h1>
 
+<table bordercolor="#66b2b2">
+<td width="50%" valign="top">
+      <h3 align="center">Recetas de comida API JAVASCRIPT VANILLA</h3>
+        <br />
+        <a target="_blank" href="https://ricepefinder.netlify.app/">
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.pngf" width="100%" alt="Imagen API JavaScript"/>
+        </a>
+        <br />
+     
+</td>
 
-<div align="left" style="display: flex; justify-content: space-between;">
-  <div style="border: 2px solid #000; padding: 10px;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block;">
-      <img style="width: 100%; max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript">
-    </a>
-  </div>
+<td width="50%" valign="top">
+  <h3 align="center">Agencia de Viaje MVC</h3>
+        <br />
+        <a target="_blank" href="https://www.youtube.com/watch?v=MwIT-kqapUY&ab_channel=NicolasGonzalez">
+            <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" width="100%" alt="Imagen Agencia de  viaje"/>
+        </a>
+        <br />
 
-  <div align="right"  style="border: 2px solid #000; padding: 10px;">
-    <a href="https://ricepefinder.netlify.app/" style="display: block;">
-      <img align="right"  style="width: 100%; max-width: 100%; height: auto;" src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje">
-    </a>
-  </div>
-</div>
+
+</td>
+
+
+
+</table>
+
+
+
 
 
 
