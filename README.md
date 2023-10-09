@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/nicolas355/nicolas355/blob/main/hero.jpg" alt="hero_web" /></p>
 
 
 - 🌱 Impulsando la innovación digital con cada proyecto.
@@ -20,28 +20,32 @@
 
 <h3 align="left">Mis redes</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-gonzalez-68b5081b0/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nicolas-gonzalez-68b5081b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin_nicolas" height="30" width="40" /></a>
+   <a href="https://api.whatsapp.com/send/?phone=5491141904103" target="blank">
+  <img align="center" src="https://github.com/nicolas355/nicolas355/blob/main/whatsapp.png"
+      alt="telefono" height="30" width="40" />
+</a>
+
+<a href="mailto:gonzaleznicolas8000@gmail.com" target="blank">
+  <img align="center" src="https://github.com/nicolas355/nicolas355/blob/main/gmail.png"
+      alt="telefono" height="30" width="40" />
+</a>
+
+    
+
+      
+
+
+
 </p>
 
 <br>
 
-<h3 align="left">tecnologias - lenguajes</h3>
+<h3 align="left">Tecnologias - lenguajes</h3>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300">
-  </div>
+  <img src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300" style="flex: 1;">
   <div style="flex: 1;">
     <img src="https://github.com/nicolas355/nicolas355/blob/main/sass.svg" alt="Sass" width="40" height="40" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/vitejs.svg" alt="Vite.js" width="40" height="40" />
