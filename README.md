@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align="left">Tecnologias - lenguajes</h3>
+<h3 align="left">Tecnologias </h3>
 
 <div style="display: flex; align-items: center;">
   <img align="left" src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300" style="max-width: 100%;" style="flex: 1;">
@@ -68,10 +68,22 @@
 
 <br>
 
+<h1 align="center">Proyectos </h1>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="border: 2px solid #000; padding: 10px; flex: 1; margin-right: 10px;">
+    <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_api_javascript.png" alt="Imagen API JavaScript" />
+<a href="https://ricepefinder.netlify.app/" style="display: block; text-align: center; background-color: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;" >Visita el sitio web</a>
+
+  </div>
+  <div style="border: 2px solid #000; padding: 10px; flex: 1; margin-left: 10px;">
+   <img src="https://github.com/nicolas355/nicolas355/blob/main/imagen_viaje.png" alt="Imagen Viaje" />
+   <a href="https://ricepefinder.netlify.app/"  style="display: block; text-align: center; background-color: #14213d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;" >Visita el sitio web</a>
+
+  </div>
+</div>
 
 
 
 
 
-
-[nicolas355](https://github.com/nicolas355)
