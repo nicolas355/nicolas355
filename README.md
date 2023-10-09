@@ -70,7 +70,7 @@
 
 <h1 align="center" >Proyectos </h1>
 
-<table bordercolor="#66b2b2" border="red">
+<table bordercolor="#66b2b2">
 <td width="50%" valign="top">
       <h3 align="center">  <a href="https://ricepefinder.netlify.app/">Recetas de comida API JAVASCRIPT VANILLA</h3>
         <br />
