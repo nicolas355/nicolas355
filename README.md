@@ -57,10 +57,18 @@
     <img src="https://github.com/nicolas355/nicolas355/blob/main/php.svg" alt="PHP" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/npm.svg" alt="npm" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/netlify.svg" alt="Netlify" width="85" height="85" />
+  <img src="https://github.com/nicolas355/nicolas355/blob/main/material-ui.svg" alt="Material-ui" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/js.svg" alt="JavaScript" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/figma.svg" alt="Figma" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/css3.svg" alt="CSS3" width="85" height="85" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/bootstrap5.svg" alt="Bootstrap 5" width="85" height="85" />
+   <img src="https://github.com/nicolas355/nicolas355/blob/main/firebase.svg" alt="Firebase" width="85" height="85" />
+  <img src="https://github.com/nicolas355/nicolas355/blob/main/typescript.svg" alt="Typescript" width="85" height="85" />
+ <img src="https://github.com/nicolas355/nicolas355/blob/main/mysql.svg" alt="Typescript" width="85" height="85" />
+
+
+
+    
   </div>
 </div>
 
