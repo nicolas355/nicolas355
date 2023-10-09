@@ -6,7 +6,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/nicolas355/nicolas355/blob/main/hero.jpg" alt="hero_web" /></p>
+<p><img align="right" src="https://github.com/nicolas355/nicolas355/blob/main/hero.jpg"  width="50%" style="max-width: 100%;" alt="hero_web" /></p>
 
 
 - 🌱 Impulsando la innovación digital con cada proyecto.
@@ -45,7 +45,7 @@
 <h3 align="left">Tecnologias - lenguajes</h3>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300" style="flex: 1;">
+  <img align="left" src="https://github.com/nicolas355/nicolas355/raw/main/animation.gif" alt="Animación" width="300" style="max-width: 100%;" style="flex: 1;">
   <div style="flex: 1;">
     <img src="https://github.com/nicolas355/nicolas355/blob/main/sass.svg" alt="Sass" width="40" height="40" />
     <img src="https://github.com/nicolas355/nicolas355/blob/main/vitejs.svg" alt="Vite.js" width="40" height="40" />
